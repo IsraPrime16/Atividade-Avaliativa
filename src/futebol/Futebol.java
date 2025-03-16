@@ -1,4 +1,3 @@
-package futebol;
 public class Futebol {
     protected String nome;
     protected int titulosNacionais;
