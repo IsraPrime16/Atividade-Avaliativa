@@ -1,4 +1,3 @@
-package futebol;
 public class Cruzeiro extends Futebol {
     private String estadio;
 
